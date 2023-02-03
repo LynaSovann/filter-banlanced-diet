@@ -1,4 +1,4 @@
-A Balanced Diet
+#A Balanced Diet
 
 A balanced diet is a diet that contains all the nutrients necessary to keep you healthy.
 
